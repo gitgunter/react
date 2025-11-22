@@ -21,9 +21,4 @@ Key points:
 - Providers for Router and Query set up
 - Small, opinionated starting layout
 
-Suggested structure:
-- src/
-  - pages/, components/, hooks/, router.tsx, main.tsx
-- public/, index.html, tailwind.config.js, tsconfig.json, package.json
-
 License: MIT
