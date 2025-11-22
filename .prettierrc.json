@@ -1,0 +1,22 @@
+{
+  "trailingComma": "es5",
+  "tabWidth": 2,
+  "semi": false,
+  "singleQuote": true,
+  "bracketSpacing": true,
+  "importOrder": [
+    "<BUILTIN_MODULES>",
+    "^(react/(.*)$)|^(react$)",
+    "",
+    "<THIRD_PARTY_MODULES>",
+    "",
+    "^@teodrive/(.*)$",
+    "",
+    "^@/(.*)$",
+    "",
+    "^[.]",
+    "",
+    "^(?!.*[.]css$)[./].*$",
+    ".css$"
+  ]
+}
